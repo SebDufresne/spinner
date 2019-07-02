@@ -10,10 +10,3 @@ const displayString = (arr,count,repeat) => {
 };
 
 displayString(spinner, 0, 100);
-
-/*
-100);
-300);
-500);
-700);
-*/
